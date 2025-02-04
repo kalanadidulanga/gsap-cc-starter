@@ -12,7 +12,7 @@ const GsapTo = () => {
       duration: 2,
       ease: "elastic",
     })
-  })
+  },[])
 
   return (
     <main>
